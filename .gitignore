@@ -1,0 +1,23 @@
+# ── Entorno virtual de Python (vive en la raíz de este proyecto) ──
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ML models / binarios pesados (se montan en runtime)
+datasets/
+models/
+*.onnx
+*.pt
+*.task
+
+
+# OS
+.DS_Store
