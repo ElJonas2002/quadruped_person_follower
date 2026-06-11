@@ -12,7 +12,7 @@
 ## 🎥 Demo
 
 <!-- A short GIF here makes the strongest impression. Replace the link below. -->
-[▶️ Watch the demo video]([LINK_TO_YOUR_VIDEO])
+[▶️ Watch the demo video](https://drive.google.com/file/d/1aVHMVi_uXwLiOWfDmDQKc18NiFWPaZrG/view?usp=drive_link)
 
 ## ✨ Highlights
 
@@ -154,4 +154,4 @@ models/
 ## 👤 Author
 
 **Jonathan Piña** — Robotics & AI Engineer
-[LinkedIn]([YOUR_LINKEDIN]) · jonas.orlaineta02@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jonathan-po/) · jonas.orlaineta02@gmail.com
