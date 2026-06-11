@@ -8,6 +8,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-11.8-76B900?logo=nvidia&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-ONNX-00FFFF?logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-B3004B?logo=raspberrypi&logoColor=white)
 
 ## 🎥 Demo
 
