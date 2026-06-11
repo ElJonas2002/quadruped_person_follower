@@ -1,0 +1,16 @@
+Error de reproyección por imagen (calibración cámara PuppyPi):
+    img 01: 0.0155 px  
+    img 02: 0.0160 px  
+    img 03: 0.0153 px  
+    img 04: 0.0127 px  
+    img 05: 0.0139 px  
+    img 06: 0.0161 px  
+    img 07: 0.0122 px  
+    img 08: 0.0106 px  
+    img 09: 0.0148 px  
+    img 10: 0.0112 px  
+    img 11: 0.0123 px  
+    img 12: 0.0343 px  
+    img 13: 0.0165 px  
+    img 14: 0.0133 px  
+    img 15: 0.0146 px
